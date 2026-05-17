@@ -1,0 +1,38 @@
+,QUY ƯỚC TỪ KHÓA (khoa tiết niệu),,,,"Mục tiêu: tạo chuyển đổi 
+Từ khóa dài => đem lại khách hàng thực tế
+Từ khóa ngắn => traffic cao",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,BẢNG TỔNG HỢP QUY TẮC CHẤM ĐIỂM & CHỌN TỪ KHÓA,,,
+,,,,,,,,,,,,,,,,,Yếu tố đánh giá,Sai lầm trước đây (Hiện trạng cũ),Quy tắc chuẩn (Bài học rút ra),Insight mở rộng (Chuẩn YMYL & E-E-A-T)
+,,,,,,,,,,,,,,,,,1. Độ khó (KD - Keyword Difficulty),"Cho điểm cao nhất (10đ) với các từ khóa ""Rất khó"" (KD 70-100). Dẫn đến việc đâm đầu vào các từ khóa bất khả thi.",Phải đảo ngược thang điểm. Từ khóa càng dễ (KD 0-10) thì điểm càng cao (10đ). Ưu tiên các từ khóa dễ để lấy traffic và chuyển đổi nhanh.,"Trong ngách Y tế (YMYL), nếu SERP Top 10 toàn các bệnh viện lớn (Vinmec, Tâm Anh, Bộ Y tế), dù KD trên tool báo thấp thì thực tế vẫn RẤT KHÓ. Cần check SERP thủ công để xem có ""khe cửa hẹp"" không."
+Dựa vào quy trình ra quyết định của bệnh nhân,,,,Độ khó càng thấp (dễ làm) thì điểm càng cao để được ưu tiên làm trước,,,,Volume,Điểm,"Nhu cầu cấp thiết (vài ngày) # Nhu cầu làm đẹp (vài tháng, vài năm)
+Hành động của khách: Tìm triệu chứng => ra bệnh => chi phí => bác sĩ/ cơ sở khám (ở đâu) => web tối ưu UX, UI
+Không dựa quá nhiều vào lượng volume. 
+Volume cao => tăng traffic
+Tuy nhiên những traffic chuyển đổi lại có lượng volume thấp
+Nguyên nhân:
+- Cập nhật chậm
+- Xuất hiện của SERP 
+Từ khóa có KD cao là từ khóa:
+- số lượng backlink lớn
+- Domain mạnh
+- Nội dung EEAT
+- Topical authority
+- Entity/brand
+- CTR/ User",,,,,,,2. Khối lượng tìm kiếm (Volume),Trọng số Volume ngang bằng (10đ) với Intent. Làm mất cơ hội của những từ khóa chuyển đổi cao nhưng ít người tìm.,Không phụ thuộc vào Volume. Hạ thấp điểm tối đa của Volume (chỉ còn 10-20% trọng số) hoặc dùng CPC thay thế. Từ khóa Volume = 0 vẫn phải làm nếu đúng intent.,"Focus vào ""Local Patient Intent"" (Ý định bệnh nhân địa phương). Các từ khóa ngách địa phương thường volume thấp, ít bị các ""ông lớn"" thâu tóm nhưng tỷ lệ chốt lịch khám cực cao."
+Search Intent,Điểm,Diễn giải / Ví dụ từ khóa,,KD (Ahrefs/Semrush),Đánh giá,Điểm (Cập nhật),,0,"0,5",,,,,,,,3. Ý định tìm kiếm (Search Intent),"Phân loại chung chung (Thông tin, Thương hiệu, Địa điểm, Ra quyết định). Bỏ qua nhóm ""Chi phí/Bác sĩ"".",Phân loại bám sát Hành trình Bệnh nhân. Chia thành 5 cấp độ và cho điểm cao nhất ở nhóm chốt sale: Địa điểm (10đ) > Giá/Bác sĩ (8.5đ) > Giải pháp (7đ) > Triệu chứng (5đ) > Thông tin (2.5đ).,"Google ưu tiên các trang giải quyết đúng ""nỗi đau"" của người dùng. Hãy nhắm vào ngôn ngữ của người bệnh (Triệu chứng, lo lắng) thay vì chỉ dùng thuật ngữ Y khoa hàn lâm."
+Địa điểm/Thương hiệu,10,"Gắn với local: ""phòng khám"", ""ở đâu"", ""hà nội""... (Khả năng book lịch cao nhất)",,0 - 10,Rất dễ,10,,50,"0,8",,,,,,,,4. Giá thầu (CPC - Cost Per Click),Bỏ qua hoàn toàn yếu tố CPC.,"Dùng CPC làm thước đo Chuyển đổi. Nếu Volume = 0 nhưng CPC cao (ví dụ >20.000đ), điều đó chứng tỏ đối thủ đang đốt tiền chạy Ads và có lãi. Chắc chắn phải làm SEO cho từ đó.","CPC cao phản ánh ""Commercial/Transactional Intent"" (Ý định thương mại/Giao dịch) cực mạnh trong ngành Y. Đây là tín hiệu tốt."
+Cân nhắc / Bác sĩ / Chi phí,8,"Gắn với quyết định: ""giá bao nhiêu"", ""bác sĩ giỏi"", ""review""...",,11 - 30,Dễ,8,,100,"1,2",,,,,,,,5. Tính cấp thiết (Urgency),"Đánh đồng mọi từ khóa, không phân loại theo mức độ nguy hiểm của bệnh.","Thêm hệ số Cấp thiết. Bệnh nhân bị ""Bí tiểu cấp"" (Cấp cứu - 10đ) sẽ book lịch ngay hôm nay. Người bị ""Phì đại tuyến tiền liệt"" (Mãn tính - 3đ) sẽ mất cả tháng để cân nhắc.","YMYL yêu cầu tính an toàn. Nếu là từ khóa ""Cấp cứu"", nội dung cần điều hướng ngay đến Hotline hoặc chỉ dẫn gặp bác sĩ thay vì các bài đọc lan man dài dòng."
+Giải pháp,6,"Gắn với hành động: ""uống thuốc gì"", ""cách chữa"", ""phẫu thuật laser""...",,31 - 50,Trung bình,6,,150,"1,8",,,,,,,,6. Đặc tính SERP (SERP Features),"Chỉ nhìn vào con số trên file Excel, không xem xét thực tế kết quả tìm kiếm của Google.","Thưởng điểm cho Local Map. Nếu search từ khóa mà Google hiện ra Bản đồ (Local Pack), hãy cộng thêm điểm và tập trung đẩy mạnh Google Business Profile.","Hành vi tìm kiếm Y tế ngày nay là ""Near me"" (Gần tôi). Tối ưu SEO Local là vũ khí tốt nhất cho các phòng khám tư nhân để đấu lại bệnh viện công."
+Triệu chứng,4,"Gắn với nỗi đau: ""tiểu buốt"", ""bí tiểu"", ""đau quặn bụng dưới""...",,51 - 70,Khó,4,,200,"2,1",,,,,,,,7. Độ dài từ khóa (Word count),Đánh giá chung từ khóa ngắn và dài.,"Thưởng điểm cho từ khóa dài (Long-tail). Từ khóa >= 4 từ thường thể hiện nhu cầu chi tiết, dễ SEO và dễ chốt lịch khám hơn.","Xây dựng ""Topical Authority"" (Thẩm quyền chủ đề) bằng cách viết các bài viết giải quyết từng câu hỏi ngách (long-tail) của bệnh nhân để hỗ trợ cho từ khóa ngắn."
+Thông tin,2,"Gắn với tìm hiểu chung: ""phì đại tuyến tiền liệt là gì"", ""nguyên nhân""...",,71 - 100,Rất khó,2,,300,"2,7",,,,,,,,"Bỏ tư duy ""Traffic đè bẹp"": Đừng đua Volume với các báo mạng hay bách khoa toàn thư Y tế. Hãy tập trung vào Conversion-led SEO (SEO chuyển đổi).
+Luật YMYL & E-E-A-T: Bất kỳ nội dung nào được tạo ra từ bộ từ khóa này ĐỀU PHẢI có yếu tố Y khoa chuyên môn (Tên bác sĩ biên tập, nguồn trích dẫn y khoa uy tín) để không bị Google đánh phạt.
+Công thức tối thượng: Từ khóa ngách (Dài) + Intent Địa điểm/Chi phí + Tính cấp thiết cao + Volume thấp = BỆNH NHÂN THỰC TẾ.",,,
+,,,,,,,,400,"3,4",,,,,,,,,,,
+công thức cột tổng điểm = (Điểm volume *10%) + (Điểm intent*50%) + (Điểm KD*40%),,,,,,,,700,"4,2",,,,,,,,,,,
+,,,,,,,,1000,5,,,,,,,,,,,
+,,,,,,,,1500,6,,,,,,,,,,,
+,,,,,,,,2000,7,,,,,,,,,,,
+,,,,,,,,3000,8,,,,,,,,,,,
+,,,,,,,,5000,9,,,,,,,,,,,
+,,,,,,,,8000,10,,,,,,,,,,,
